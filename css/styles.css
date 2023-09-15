@@ -6,13 +6,16 @@ body {
   color: #40514E;
 }
 
+.personal{
+  border-radius: 50%;
+}
 h1 {
   color: #66BFBF;
   margin-top: 2.6rem;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
-}
+} 
 
 h2 {
   font-weight: normal;
